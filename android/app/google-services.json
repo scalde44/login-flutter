@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175134772019",
+    "firebase_url": "https://flutter-varios-616ee.firebaseio.com",
+    "project_id": "flutter-varios-616ee",
+    "storage_bucket": "flutter-varios-616ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175134772019:android:a39370d2c60320061c4c46",
+        "android_client_info": {
+          "package_name": "com.example.formvalidation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175134772019-2ump1c31n8igec36hn5bkmruskic65e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSTHIfbZ-a168HvJ-JJIzIrzfheQyY3N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175134772019-2ump1c31n8igec36hn5bkmruskic65e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
